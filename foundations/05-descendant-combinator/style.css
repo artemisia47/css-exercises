@@ -1,0 +1,13 @@
+.container .text{
+    background-color: rgb(255, 255, 0);
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.flower .baby{
+    background-color: aqua;
+}
+    .cyan{
+        background-color: aqua;
+    }
