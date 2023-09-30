@@ -7,11 +7,26 @@ body {
   background: #eee;
   font-family: Besley, serif;
 }
+.logolinks{
+  display: flex;
 
+  }
+.links{
+  gap: 8px;
+  padding: 0px 16px;
+}
+
+.notificationprofileimage{
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  display: flex;
+justify-content: space-between;
 }
 
 .profile-image {
@@ -45,4 +60,6 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  
 }
